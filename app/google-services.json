@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "760493371000",
+    "firebase_url": "https://pnotification-51d20.firebaseio.com",
+    "project_id": "pnotification-51d20",
+    "storage_bucket": "pnotification-51d20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760493371000:android:fcd61579c71e1e8e",
+        "android_client_info": {
+          "package_name": "ranglerz.com.pnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760493371000-b3g616b211rvm9b8dglm592qpun4fn69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW699YWMvGQzHwQ_YSJtdYG3SBpt9uFWc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
